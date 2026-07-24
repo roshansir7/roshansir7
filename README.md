@@ -24,6 +24,7 @@ I enjoy transforming raw data into meaningful insights using Python, SQL, Tablea
 
 * [Electrical Energy Consumption Prediction](https://github.com/roshansir7/A-Data-Mining-Approach-for-Predicting-Electrical-Energy-Consumption)
   Prediction of electrical energy consumption using regression models and environmental measurements.
+  Three-member group project. I completed the main work in data preparation, exploratory analysis, machine-learning model development,evaluation, visualisation and documentation.
 
 * [SpaceX Launch Analysis](https://github.com/roshansir7/SpaceX-launch-analysis)
   End-to-end analysis of Falcon 9 launches and prediction of first-stage landing success.
