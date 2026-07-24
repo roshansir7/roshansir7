@@ -1,34 +1,51 @@
 # Hi, I’m Roshan Paudel
 
-I am an MSc Advanced Computing student with an interest in data analytics, data science, machine learning and business intelligence.
+I am an MSc Advanced Computing student and aspiring Data Analyst and Data Scientist based in Glasgow, United Kingdom.
 
-I enjoy transforming raw data into practical insights through Python, SQL, Tableau, Power BI and machine-learning techniques.
+I enjoy transforming raw data into meaningful insights using Python, SQL, Tableau, Power BI and machine-learning techniques.
 
 ## Technical Skills
 
-* Python: Pandas, NumPy, Matplotlib, Scikit-learn
-* Data Analysis: Data cleaning, EDA and statistical analysis
-* Machine Learning: Classification, regression and model evaluation
-* Databases: SQL and MySQL
-* Visualisation: Tableau, Power BI and Excel
-* Other Technologies: Java, HTML, CSS, Android Studio and Cisco Packet Tracer
+* **Programming:** Python, SQL and Java
+* **Data Analysis:** Pandas, NumPy, data cleaning, exploratory data analysis and statistical analysis
+* **Machine Learning:** Classification, regression, feature engineering, model tuning and evaluation
+* **Visualisation:** Tableau, Power BI, Matplotlib, Seaborn and Plotly
+* **Databases:** MySQL and relational database design
+* **Application Development:** Streamlit, Android Studio, HTML and CSS
+* **Tools:** Jupyter Notebook, Google Colab, Git and GitHub
 
 ## Featured Projects
 
-* Healthcare Insurance Analysis
-* Employee Turnover Analytics
-* SpaceX Launch Analysis
-* Australian Apparel Sales Analysis
-* Regional Sales Comparison Dashboard
-* Employee Performance Mapping
+* [Healthcare Insurance Analysis](https://github.com/roshansir7/Healthcare-Insurance-Analysis)
+  Healthcare cost analysis and prediction using Python, SQL, Tableau and machine learning.
+
+* [Anemia Detection and Clinical Decision Support](https://github.com/roshansir7/Predictive-Modeling-and-Clinical-Decision-Support-for-Anemia-Detection-Using-Machine-Learning)
+  Machine-learning and Streamlit application for anemia detection using clinical blood-test features.
+
+* [Electrical Energy Consumption Prediction](https://github.com/roshansir7/A-Data-Mining-Approach-for-Predicting-Electrical-Energy-Consumption)
+  Prediction of electrical energy consumption using regression models and environmental measurements.
+
+* [SpaceX Launch Analysis](https://github.com/roshansir7/SpaceX-launch-analysis)
+  End-to-end analysis of Falcon 9 launches and prediction of first-stage landing success.
+
+* [Regional Sales Comparison](https://github.com/roshansir7/Regional-Sales-Comparison)
+  Interactive Tableau dashboard for comparing sales performance across selected regions.
+
+* [Employee Performance Mapping](https://github.com/roshansir7/ScienceQtech-Employee-Performance-Mapping)
+  SQL-based analysis of employee performance, salaries, roles and project assignments.
 
 ## Current Focus
 
-I am currently developing my skills in data analytics, machine learning, dashboard development and real-world business problem solving.
+I am currently strengthening my skills in:
+
+* Data analytics and business intelligence
+* Machine learning and predictive modelling
+* Dashboard development
+* Streamlit application development
+* Real-world business problem solving
 
 ## Connect With Me
 
-* LinkedIn: [Roshan Paudel](https://www.linkedin.com/in/roshansir7/)
+* [LinkedIn](https://www.linkedin.com/in/roshansir7/)
 * Location: Glasgow, United Kingdom
-* Open to opportunities in data analysis, business intelligence and junior data science roles.
-
+* Open to Data Analyst, Business Intelligence and Junior Data Scientist opportunities
