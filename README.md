@@ -25,3 +25,10 @@ I enjoy transforming raw data into practical insights through Python, SQL, Table
 ## Current Focus
 
 I am currently developing my skills in data analytics, machine learning, dashboard development and real-world business problem solving.
+
+## Connect With Me
+
+* LinkedIn: [Roshan Paudel](https://www.linkedin.com/in/roshansir7/)
+* Location: Glasgow, United Kingdom
+* Open to opportunities in data analysis, business intelligence and junior data science roles.
+
