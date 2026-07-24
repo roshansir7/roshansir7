@@ -35,6 +35,23 @@ I enjoy transforming raw data into meaningful insights using Python, SQL, Tablea
 * [Employee Performance Mapping](https://github.com/roshansir7/ScienceQtech-Employee-Performance-Mapping)
   SQL-based analysis of employee performance, salaries, roles and project assignments.
 
+## MSc Thesis
+
+### [Evaluating the Temporal Robustness of Logistic Regression and DistilBERT for Depression Detection Using Reddit Data](THESIS-REPOSITORY-LINK)
+
+My MSc Advanced Computing thesis investigates how effectively machine-learning and transformer models can detect depression from Reddit posts while maintaining performance across different time periods.
+
+The study compares:
+
+* Logistic Regression with TF-IDF features
+* DistilBERT using raw text
+* Pre-COVID and COVID-period Reddit data
+* Same-period and temporal generalisation performance
+
+The project evaluates model accuracy, precision, recall, F1-score, ROC-AUC, confusion matrices, training time and inference time.
+
+**My contribution:** I independently completed the research design, data preparation, exploratory analysis, model development, evaluation, visualisation and thesis documentation.
+
 ## Current Focus
 
 I am currently strengthening my skills in:
