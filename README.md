@@ -2,7 +2,7 @@
 
 ### Data Analyst | Junior Data Scientist | MSc Advanced Computing | SQL | Python | Tableau | Power BI
 
-I am an MSc Advanced Computing graduate with a background in Computer Engineering
+MSc Advanced Computing graduate and Data Analyst with a background in Computer Engineering and Global Business & Trade
 , focused on data analytics, business intelligence,
 and machine learning.
 
