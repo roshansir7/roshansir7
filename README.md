@@ -1,69 +1,123 @@
-# Hi, I’m Roshan Paudel
+# Hi, I'm Roshan Paudel 👋
 
-I am an MSc Advanced Computing student and aspiring Data Analyst and Data Scientist based in Glasgow, United Kingdom.
+### Data Analyst | Junior Data Scientist | MSc Advanced Computing | SQL | Python | Tableau | Power BI
 
-I enjoy transforming raw data into meaningful insights using Python, SQL, Tableau, Power BI and machine-learning techniques.
+I am an MSc Advanced Computing graduate with a background in Computer Engineering
+, focused on data analytics, business intelligence,
+and machine learning.
 
-## Technical Skills
+I enjoy transforming raw data into meaningful insights using SQL, Python,
+Tableau, Power BI, and statistical and machine-learning techniques.
 
-* **Programming:** Python, SQL and Java
-* **Data Analysis:** Pandas, NumPy, data cleaning, exploratory data analysis and statistical analysis
-* **Machine Learning:** Classification, regression, feature engineering, model tuning and evaluation
-* **Visualisation:** Tableau, Power BI, Matplotlib, Seaborn and Plotly
-* **Databases:** MySQL and relational database design
-* **Application Development:** Streamlit, Android Studio, HTML and CSS
-* **Tools:** Jupyter Notebook, Google Colab, Git and GitHub
+📍 Glasgow, United Kingdom
 
-## Featured Projects
+---
 
-* [Healthcare Insurance Analysis](https://github.com/roshansir7/Healthcare-Insurance-Analysis)
-  Healthcare cost analysis and prediction using Python, SQL, Tableau and machine learning.
+## 🛠️ Technical Skills
 
-* [Anemia Detection and Clinical Decision Support](https://github.com/roshansir7/Predictive-Modeling-and-Clinical-Decision-Support-for-Anemia-Detection-Using-Machine-Learning)
-  Machine-learning and Streamlit application for anemia detection using clinical blood-test features.
+### Data Analytics
+Python • SQL • Excel • Pandas • NumPy • Data Cleaning • EDA •
+Statistical Analysis • KPI Reporting
 
-* [Electrical Energy Consumption Prediction](https://github.com/roshansir7/A-Data-Mining-Approach-for-Predicting-Electrical-Energy-Consumption)
-  Prediction of electrical energy consumption using regression models and environmental measurements.
-  Three-member group project. I completed the main work in data preparation, exploratory analysis, machine-learning model development,evaluation, visualisation and documentation.
+### Business Intelligence & Visualisation
+Tableau • Power BI • Dashboard Development • Data Visualisation •
+Matplotlib • Seaborn • Plotly
 
-* [SpaceX Launch Analysis](https://github.com/roshansir7/SpaceX-launch-analysis)
-  End-to-end analysis of Falcon 9 launches and prediction of first-stage landing success.
+### Machine Learning
+Scikit-learn • Classification • Regression • Feature Engineering •
+Model Tuning • Model Evaluation • NLP
 
-* [Regional Sales Comparison](https://github.com/roshansir7/Regional-Sales-Comparison)
-  Interactive Tableau dashboard for comparing sales performance across selected regions.
+### Databases
+MySQL • Joins • Aggregation • Subqueries • Window Functions •
+Stored Procedures • Views
 
-* [Employee Performance Mapping](https://github.com/roshansir7/ScienceQtech-Employee-Performance-Mapping)
-  SQL-based analysis of employee performance, salaries, roles and project assignments.
+### Tools
+Git • GitHub • Jupyter Notebook • Google Colab • Streamlit
 
-## MSc Thesis
+---
 
-### [Evaluating the Temporal Robustness of Logistic Regression and DistilBERT for Depression Detection Using Reddit Data](THESIS-REPOSITORY-LINK)
+## 📊 Featured Projects
 
-My MSc Advanced Computing thesis investigates how effectively machine-learning and transformer models can detect depression from Reddit posts while maintaining performance across different time periods.
+### 🏥 Healthcare Insurance Analysis
+End-to-end healthcare analytics project using Python, SQL, Tableau,
+statistical analysis, and machine learning to investigate hospitalisation
+costs and identify key cost drivers.
 
-The study compares:
+**Tools:** Python • SQL • Tableau • Scikit-learn
 
-* Logistic Regression with TF-IDF features
-* DistilBERT using raw text
-* Pre-COVID and COVID-period Reddit data
-* Same-period and temporal generalisation performance
+### 📈 Regional Sales Comparison Dashboard
+Interactive Tableau dashboard comparing regional sales performance,
+KPIs, customer activity, orders, and product performance.
 
-The project evaluates model accuracy, precision, recall, F1-score, ROC-AUC, confusion matrices, training time and inference time.
+**Tools:** Tableau • Business Intelligence • KPI Reporting
 
-**My contribution:** I independently completed the research design, data preparation, exploratory analysis, model development, evaluation, visualisation and thesis documentation.
+### 👥 Employee Performance & Workforce Analysis
+SQL-based workforce analysis covering employee performance, salaries,
+departments, project assignments, ranking, stored procedures, and
+performance-based bonus calculations.
 
-## Current Focus
+**Tools:** SQL • MySQL • Database Analytics
 
-I am currently strengthening my skills in:
+### 🧠 Depression Detection Using Reddit Data
+MSc research project comparing TF-IDF with Logistic Regression against
+DistilBERT for depression detection and temporal generalisation.
 
-* Data analytics and business intelligence
-* Machine learning and predictive modelling
-* Dashboard development
-* Streamlit application development
-* Real-world business problem solving
+**Tools:** Python • NLP • TF-IDF • Logistic Regression • DistilBERT
 
-## Connect With Me
+### ⚡ Electrical Energy Consumption Prediction
+Machine-learning project using 600,000+ electrical and weather
+observations with time-based, lag, and rolling features.
 
-* [LinkedIn](https://www.linkedin.com/in/roshansir7/)
-* Location: Glasgow, United Kingdom
-* Open to Data Analyst, Business Intelligence and Junior Data Scientist opportunities
+**Tools:** Python • Pandas • Scikit-learn • Random Forest • XGBoost
+
+### 🩸 Anaemia Detection & Clinical Decision Support
+Machine-learning classification project with hyperparameter tuning and
+an interactive Streamlit screening application.
+
+**Tools:** Python • Scikit-learn • GridSearchCV • Streamlit
+
+---
+
+## 🎓 Education
+
+**MSc Advanced Computing**  
+University of the West of Scotland, Glasgow, UK
+
+**MA Economics – Global Business & Trade**  
+Joongbu University, South Korea
+
+**BEng Computer Engineering**  
+Kyungdong University, South Korea
+
+---
+
+## 📜 Certifications
+
+- Data Scientist Professional Learning Path — Coursera
+- Data Science Bootcamp — Fortray Global
+
+---
+
+## 🎯 Current Focus
+
+- Data Analytics
+- Business Intelligence
+- SQL & Database Analytics
+- Tableau & Power BI
+- Python Data Analysis
+- Machine Learning
+- Data Visualisation
+- Business Problem Solving
+
+---
+
+## 🤝 Open To
+
+Data Analyst • Junior Data Analyst • Business Intelligence Analyst
+• Junior Data Scientist
+
+---
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/roshansir7)
