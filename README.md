@@ -95,6 +95,8 @@ Kyungdong University, South Korea
 
 - Data Scientist Professional Learning Path — Coursera
 - Data Science Bootcamp — Fortray Global
+- Salesforce Certified Tableau Data Analyst — Salesforce
+Issued September 2026 | Credential ID: 8143685
 
 ---
 
